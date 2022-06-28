@@ -1,4 +1,4 @@
-age,salary,genderG,country,purchased
+age,salary,gender,country,purchased
 18,20000,Male,Germany,N
 19,22000,Female,France,N
 20,24000,Female,England,N
