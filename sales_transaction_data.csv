@@ -664,24 +664,6 @@ report_date,warehouse_location,client_group,product_group,quantity,unit_price,to
 2022-06-30,North,Retail,Breaking system,4,12.05,48.21,credit_card
 2022-06-30,Central,Retail,Breaking system,9,21.42,192.82,credit_card
 2022-06-30,West,Wholesale,Miscellaneous,16,25.82,413.04,bank_transfer
-2022-06-31,Central,Retail,Suspension & traction,5,27.2,136.02,cash
-2022-06-31,North,Retail,Frame & body,2,39.91,79.82,credit_card
-2022-06-31,West,Retail,Frame & body,7,45.66,319.64,credit_card
-2022-06-31,Central,Retail,Suspension & traction,10,41.23,412.3,credit_card
-2022-06-31,Central,Wholesale,Suspension & traction,36,29.5,1062.0,bank_transfer
-2022-06-31,West,Retail,Frame & body,2,35.73,71.46,credit_card
-2022-06-31,Central,Retail,Suspension & traction,9,39.73,357.58,credit_card
-2022-06-31,Central,Retail,Engine,3,62.23,186.7,credit_card
-2022-06-31,Central,Retail,Frame & body,10,42.42,424.25,cash
-2022-06-31,North,Retail,Miscellaneous,4,24.42,97.68,credit_card
-2022-06-31,Central,Retail,Frame & body,2,37.55,75.1,credit_card
-2022-06-31,Central,Retail,Suspension & traction,9,41.62,374.6,credit_card
-2022-06-31,Central,Retail,Suspension & traction,2,31.38,62.76,credit_card
-2022-06-31,North,Wholesale,Frame & body,12,48.1,577.26,bank_transfer
-2022-06-31,West,Retail,Breaking system,3,12.84,38.51,credit_card
-2022-06-31,Central,Wholesale,Electrical system,12,21.04,252.52,bank_transfer
-2022-06-31,Central,Wholesale,Breaking system,20,23.75,474.97,bank_transfer
-2022-06-31,Central,Retail,Electrical system,7,30.93,216.53,credit_card
 2022-07-01,West,Wholesale,Electrical system,32,21.7,694.4,bank_transfer
 2022-07-01,West,Retail,Electrical system,5,25.32,126.6,credit_card
 2022-07-01,North,Retail,Electrical system,7,21.49,150.44,credit_card
@@ -999,3 +981,21 @@ report_date,warehouse_location,client_group,product_group,quantity,unit_price,to
 2022-07-28,West,Wholesale,Electrical system,12,32.8,393.64,bank_transfer
 2022-07-28,North,Retail,Frame & body,5,48.25,241.23,cash
 2022-07-28,North,Wholesale,Electrical system,20,27.41,548.13,bank_transfer
+2022-08-01,Central,Retail,Suspension & traction,5,27.2,136.02,cash
+2022-08-01,North,Retail,Frame & body,2,39.91,79.82,credit_card
+2022-08-01,West,Retail,Frame & body,7,45.66,319.64,credit_card
+2022-08-01,Central,Retail,Suspension & traction,10,41.23,412.3,credit_card
+2022-08-01,Central,Wholesale,Suspension & traction,36,29.5,1062.0,bank_transfer
+2022-08-01,West,Retail,Frame & body,2,35.73,71.46,credit_card
+2022-08-01,Central,Retail,Suspension & traction,9,39.73,357.58,credit_card
+2022-08-01,Central,Retail,Engine,3,62.23,186.7,credit_card
+2022-08-01,Central,Retail,Frame & body,10,42.42,424.25,cash
+2022-08-01,North,Retail,Miscellaneous,4,24.42,97.68,credit_card
+2022-08-01,Central,Retail,Frame & body,2,37.55,75.1,credit_card
+2022-08-01,Central,Retail,Suspension & traction,9,41.62,374.6,credit_card
+2022-08-01,Central,Retail,Suspension & traction,2,31.38,62.76,credit_card
+2022-08-01,North,Wholesale,Frame & body,12,48.1,577.26,bank_transfer
+2022-08-01,West,Retail,Breaking system,3,12.84,38.51,credit_card
+2022-08-01,Central,Wholesale,Electrical system,12,21.04,252.52,bank_transfer
+2022-08-01,Central,Wholesale,Breaking system,20,23.75,474.97,bank_transfer
+2022-08-01,Central,Retail,Electrical system,7,30.93,216.53,credit_card
